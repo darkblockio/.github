@@ -12,6 +12,15 @@ We have a variety of npms available to make integration easy into your React pro
 * [Avalanche NPM](https://github.com/darkblockio/npm-avax-widget)
 
 
+
+
+Transport | Favored by | Advantages
+--- | --- | ---
+Swallow | Coconuts | Otherwise unladen
+Bicycle | Miss Gulch | Weatherproof
+X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
+
+
 <!--
 
 **Here are some ideas to get you started:**
