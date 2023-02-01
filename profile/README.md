@@ -14,6 +14,17 @@ Tezos NPM | [Github Repo](https://github.com/darkblockio/npm-tez-widget) | [NPMJ
 Avalanche NPM | [Github Repo](https://github.com/darkblockio/npm-avax-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/avax-widget) | yarn add @darkblock.io/avax-widget
 
 
+### STARTER TEMPLATE SOURCE CODE ###
+We've made it easy to create your own Darkblock site with a series of platform/chain specific starter templates.  
+
+Platform | Source Code | Download Zip | Github Clone
+--- | --- | --- | ---
+Ethereum Starter Template | [Github Repo](https://github.com/darkblockio/Public-Ethereum-Starter) | [Download Zip](https://github.com/darkblockio/Public-Ethereum-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Ethereum-Starter
+Polygon Starter Template | [Github Repo](https://github.com/darkblockio/Public-Polygon-Starter) | [Download Zip](https://github.com/darkblockio/Public-Polygon-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Polygon-Starter
+Solana Starter Template | [Github Repo](https://github.com/darkblockio/Public-Solana-Starter) | [Download Zip](https://github.com/darkblockio/Public-Solana-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Solana-Starter
+Tezos Starter Template | [Github Repo](https://github.com/darkblockio/Public-Tezos-Starter) | [Download Zip](https://github.com/darkblockio/Public-Tezos-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Tezos-Starter
+Avalanche NPM | [Github Repo](https://github.com/darkblockio/Public-Avalanche-Starter) | [Download Zip](https://github.com/darkblockio/Public-Avalanche-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Avalanche-Starter
+
 <!--
 
 **Here are some ideas to get you started:**
