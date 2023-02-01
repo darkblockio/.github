@@ -15,7 +15,7 @@ We have a variety of npms available to make integration easy into your React pro
 
 
 Platform | Source Code | NPM | NPM Add
---- | --- | ---
+--- | --- | --- | ---
 Shared Component | [Github Repo](https://github.com/darkblockio/npm-shared-components) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/shared-components) | yarn add @darkblock.io/shared-components
 Shared Component | [Github Repo](https://github.com/darkblockio/npm-shared-components) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/shared-components) | yarn add @darkblock.io/shared-components
 Shared Component | [Github Repo](https://github.com/darkblockio/npm-shared-components) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/shared-components) | yarn add @darkblock.io/shared-components
