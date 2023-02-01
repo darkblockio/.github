@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+* Foo
+* Bar
+* Baz.
+
+
 <!--
 
 **Here are some ideas to get you started:**
