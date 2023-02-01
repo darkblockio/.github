@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-### NPM SOURCE CODE ###
+## NPM SOURCE CODE ##
+
 We have a variety of npms available to make integration easy into your React project. The shared component repo is at the center of all of our other npm projects.  This contains our media viewer which helps take popular file formats and render them in browser for consumption.  The platform specific npms below use the shared component as a base.
 
 
@@ -14,9 +15,10 @@ Solana NPM | [Github Repo](https://github.com/darkblockio/npm-sol-widget) | [NPM
 Tezos NPM | [Github Repo](https://github.com/darkblockio/npm-tez-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/tez-widget) | yarn add @darkblock.io/tez-widget
 Avalanche NPM | [Github Repo](https://github.com/darkblockio/npm-avax-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/avax-widget) | yarn add @darkblock.io/avax-widget
 
+***
 
+## STARTER TEMPLATE SOURCE CODE ##
 
-### STARTER TEMPLATE SOURCE CODE ###
 We've made it easy to create your own Darkblock site with a series of platform/chain specific starter templates.  
 
 
@@ -27,6 +29,9 @@ Polygon Starter Template | [Github Repo](https://github.com/darkblockio/Public-P
 Solana Starter Template | [Github Repo](https://github.com/darkblockio/Public-Solana-Starter) | [Download Zip](https://github.com/darkblockio/Public-Solana-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Solana-Starter
 Tezos Starter Template | [Github Repo](https://github.com/darkblockio/Public-Tezos-Starter) | [Download Zip](https://github.com/darkblockio/Public-Tezos-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Tezos-Starter
 Avalanche NPM | [Github Repo](https://github.com/darkblockio/Public-Avalanche-Starter) | [Download Zip](https://github.com/darkblockio/Public-Avalanche-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Avalanche-Starter
+
+***
+
 
 <!--
 
