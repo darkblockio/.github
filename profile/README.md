@@ -14,9 +14,9 @@ We have a variety of npms available to make integration easy into your React pro
 
 
 
-Transport | Favored by | Advantages
+Platform | Source Code | NPM
 --- | --- | ---
-Swallow | Coconuts | Otherwise unladen
+Shared Component | [Github Repo](https://github.com/darkblockio/npm-shared-components) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/shared-components)
 Bicycle | Miss Gulch | Weatherproof
 X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
 
