@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-The shared component repo is at the center of all of our other npm projects.  This contains our media viewer which helps take popular file formats and render them in browser for consumption.  
+
+### NPM SOURCE CODE ###
+We have a variety of npms available to make integration easy into your React project. The shared component repo is at the center of all of our other npm projects.  This contains our media viewer which helps take popular file formats and render them in browser for consumption.  The platform specific npms below use the shared component as a base.
 
 * [Shared Component](https://github.com/darkblockio/npm-shared-components)
-* Bar
-* Baz.
+* [Ethereum NPM](https://github.com/darkblockio/npm-eth-widget)
+* [Polygon NPM](https://github.com/darkblockio/npm-matic-widget)
+* [Solana NPM](https://github.com/darkblockio/npm-sol-widget)
+* [Tezos NPM](https://github.com/darkblockio/npm-tez-widget)
+* [Avalanche NPM](https://github.com/darkblockio/npm-avax-widget)
 
 
 <!--
