@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Don't forget that we have [developer documentation that can be found here](https://docs.darkblock.io).  Get a key and use our API to generate and unlock Darkblocks.  Or save a few dev steps and use our open source repos below.  Please feel free to put in pull requests and help us extend our capabilities.  Thank you.
+
+***
+
 
 ## NPM SOURCE CODE ##
 
