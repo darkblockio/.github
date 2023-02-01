@@ -28,10 +28,23 @@ Ethereum Starter Template | [Github Repo](https://github.com/darkblockio/Public-
 Polygon Starter Template | [Github Repo](https://github.com/darkblockio/Public-Polygon-Starter) | [Download Zip](https://github.com/darkblockio/Public-Polygon-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Polygon-Starter
 Solana Starter Template | [Github Repo](https://github.com/darkblockio/Public-Solana-Starter) | [Download Zip](https://github.com/darkblockio/Public-Solana-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Solana-Starter
 Tezos Starter Template | [Github Repo](https://github.com/darkblockio/Public-Tezos-Starter) | [Download Zip](https://github.com/darkblockio/Public-Tezos-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Tezos-Starter
-Avalanche NPM | [Github Repo](https://github.com/darkblockio/Public-Avalanche-Starter) | [Download Zip](https://github.com/darkblockio/Public-Avalanche-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Avalanche-Starter
+Avalanche Starter Template | [Github Repo](https://github.com/darkblockio/Public-Avalanche-Starter) | [Download Zip](https://github.com/darkblockio/Public-Avalanche-Starter/archive/refs/heads/main.zip) | gh repo clone darkblockio/Public-Avalanche-Starter
 
 ***
 
+## CHROME EXTENSION ##
+
+Here is the source code for our own Chrome Extension that is available on [Chrome Webstore](https://chrome.google.com/webstore/detail/darkblock-extension/napfclmneabjkfcibhookdfhffllalgl).  It embeds our Darkblock viewer on OpenSea and other marketplaces. 
+
+[Chrome Extension Source](https://github.com/darkblockio/darkblock-extension)
+
+***
+
+## UNITY PLUGIN ##
+
+Here is the source code for our Unity Plugin.  This is early code but the goal is to show how unlockable owned content can be used in the Unity Engine. 
+
+[Unity Plugin Source](https://github.com/darkblockio/darkblock-extension)
 
 <!--
 
