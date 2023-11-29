@@ -13,6 +13,7 @@ We have a variety of npms available to make integration easy into your React pro
 Platform | Source Code | NPM | NPM Add
 --- | --- | --- | ---
 Shared Component | [Github Repo](https://github.com/darkblockio/npm-shared-components) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/shared-components) | yarn add @darkblock.io/shared-components
+EVM NPM | [Github Repo](https://github.com/darkblockio/npm-evm-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/evm-widget) | yarn add @darkblock.io/eth-widget
 Ethereum NPM | [Github Repo](https://github.com/darkblockio/npm-eth-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/eth-widget) | yarn add @darkblock.io/eth-widget
 Polygon NPM | [Github Repo](https://github.com/darkblockio/npm-matic-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/matic-widget) | yarn add @darkblock.io/matic-widget
 Solana NPM | [Github Repo](https://github.com/darkblockio/npm-sol-widget) | [NPMJS Link](https://www.npmjs.com/package/@darkblock.io/sol-widget) | yarn add @darkblock.io/sol-widget
